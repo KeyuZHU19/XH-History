@@ -34,7 +34,7 @@ profiles:
     url: 'kyzhu2023@mail.sustech.edu.cn'
     label: E-mail Me
   - icon: brands/x
-    url:https://x.com/Kit_Key_
+    url: https://x.com/Kit_Key_
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
 
 
