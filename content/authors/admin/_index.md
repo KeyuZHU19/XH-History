@@ -6,11 +6,11 @@ title: 朱柯宇
 name_pronunciation: Keyu ZHU
 
 # Full name (for SEO)
-first_name:Keyu
+first_name: Keyu
 last_name: ZHU
 
 # Status emoji
-status:
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
