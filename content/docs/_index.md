@@ -3,14 +3,6 @@ linkTitle: Documentation
 title: Introduction
 ---
 
-👋 Welcome to the demo of the Hugo Blox Documentation template!
+欢迎来到新航实验校园历史
 
-<!--more-->
-
-This site is a demo of the Hugo Blox Documentation theme. For the full documentation on how to use this template, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
-
-## Next
-
-{{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Create your docs in just 5 minutes!" >}}
-{{< /cards >}}
+Admin: kyzhu2023 AT mail.sustech.edu.cn
