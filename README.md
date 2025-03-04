@@ -1,32 +1,17 @@
-# [Hugo Docs Theme](https://github.com/HugoBlox/theme-documentation)
 
-[![Screenshot](https://raw.githubusercontent.com/HugoBlox/theme-documentation/main/.github/preview.png)](https://hugoblox.com/templates/details/docs/)
+**新航实验庠序史馆开卷弁言**
 
-The Hugo **Documentation Template** empowers with everything you need to build a beautiful documentation website, including a customizable block-based homepage and blog. It's ultra-fast and easy, letting you focus on your content. It's also no-code by default, so no JavaScript knowledge is required unlike other templates!
+诸师长、同窗、校友并四方贤达钧鉴：
 
-️**Trusted by 250,000+ creators, teams, and organizations.** Highly customizable via the integrated **no-code, block-based website builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+岁在癸卯，星移物换。吾辈感念庠序教化之恩，乃建云端史馆，以镌春秋，以铭青史。此间将存新航实验之精魄，藏弦歌不绝之薪火，使前尘可溯，后辈有凭。
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/details/docs/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+溯自戊戌初立，庠序肇基。守正持节，立杏坛高标；求真穷理，开齐鲁新风。五载倏忽，寒暑相催：晨昏灯火，照见格物之心；春秋鼓乐，激扬少年之气。白杨荫里，曾印晨读身影；紫藤架下，犹存辩经余音。师长授业如春风化雨，学子问道似渴骥奔泉。
 
-[Check out the latest demo](https://hugo-docs-theme.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
+今筑此云阁，非惟记楼宇之变迁，更欲存精神之遗响。凡教案札记、影像图志、校友手泽、校史文书，皆作吉光片羽，永存琅嬛。愿后来者观之，可感前贤开拓之艰，能继庠序求真之志。
 
-The integrated [**Hugo Blox**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+庠序方立五稔，如初阳之升；史馆初成，似新硎之发。吾辈既为庠序之子，当承往圣之绝学，启后世之新章。惟愿诸君共襄盛举，或献旧物以充馆藏，或撰文章以补阙遗，使此阁与庠序同光，共岁月长存。
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/details/docs/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Academic File Converter](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+谨奉寸心，恭候雅命。
 
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive_ templates and blox_](https://hugoblox.com/sponsor/)
+新航实验庠序史馆全体纂修 顿首
+*公元二〇二五年仲春*
